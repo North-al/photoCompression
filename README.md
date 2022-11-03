@@ -3,10 +3,17 @@
 
 # 使用
 
-> git clone https://github.com/North-al/photoCompression.git
-> cd photoCompression
-> npm i
-> npm run dev or npm run start
+```bash
+git clone https://github.com/North-al/photoCompression.git
+```
+
+```bash
+cd photoCompression
+
+npm i
+
+npm run dev or npm run start
+```
 
 拖拽图片进入cmd识别路径
 回车然后输入缩放比例
